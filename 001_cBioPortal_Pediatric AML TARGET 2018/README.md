@@ -1,4 +1,4 @@
-# **Exploratory Data Analysis of Peadiatric Acute Myeloid Leukemia Data**
+# **Exploratory Data Analysis of Peadiatric Acute Myeloid Leukaemia Data**
 ---
 
 ## **Dataset Used**
