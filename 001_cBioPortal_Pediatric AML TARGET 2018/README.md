@@ -93,8 +93,8 @@ The analysis was divided into the following key sections:
 
 ## **Conclusions**
 
-- Survival outcomes were significantly influenced by **CEBPA mutation** status and **MRD percentages**.
-- **Race** also showed disparities in survival, with Black or African American patients experiencing worse outcomes.
+- Survival outcomes were significantly influenced by mutation status and MRD percentages.
+- Race also showed disparities in survival, with Black or African American patients experiencing worse outcomes.
 - Diagnosis age peaks in early childhood and does not differ significantly by sex or race.
 - Higher bone marrow leukemic blast percentages were strongly associated with higher-risk groups.
 - Correlation analysis identified strong relationships between mutation counts, WBC counts, and overall survival.
