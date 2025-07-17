@@ -95,10 +95,3 @@ Missing data is minimal for analytical variables (mostly limited to address fiel
 3. Use the provided R code to generate all summary tables and plots.
 4. Adapt or extend analysis for further questions as needed.
 
----
-
-**Author:**  
-*(Your Name Here)*  
-**Date:** July 2025
-
----
