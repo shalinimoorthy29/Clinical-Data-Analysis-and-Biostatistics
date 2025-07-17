@@ -79,16 +79,6 @@ Missing data is minimal for analytical variables (mostly limited to address fiel
 
 ---
 
-## Example Visuals
-
-- ![Pie: Top 5 BNF Chapter Spend](./top5_bnf_chapter_pie.png)
-- ![Boxplot: NIC per Prescription by Region](./nic_by_region_boxplot.png)
-- ![Boxplot: NIC by BNF Chapter](./nic_by_bnf_boxplot.png)
-
-*(Replace image paths with your actual file names as needed)*
-
----
-
 ## Next Steps / Recommendations
 
 - **Drilldown:** Explore high-cost medicines and regions in more detail.
